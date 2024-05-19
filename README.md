@@ -1,6 +1,6 @@
 # Human-activity-analysis-collection
 
-![Human skeleton extraction and tracking](url-to-gif)
+
 
 
 
