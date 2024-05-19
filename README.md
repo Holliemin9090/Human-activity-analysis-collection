@@ -15,3 +15,6 @@
 
 ## 2D to 3D skeleton lifting
 ![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif) 
+
+## 3D human mesh
+![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif) 
