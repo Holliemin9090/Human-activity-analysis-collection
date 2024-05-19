@@ -12,3 +12,6 @@
 
 ## Action recognition
 ![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif) 
+
+## 2D to 3D skeleton lifting
+![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif) 
