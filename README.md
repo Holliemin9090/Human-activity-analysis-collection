@@ -18,3 +18,6 @@
 
 ## 3D human mesh
 ![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif) 
+
+## 3D human mesh
+<img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif" width="600" alt="Demo of the feature">
