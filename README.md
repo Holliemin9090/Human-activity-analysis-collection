@@ -22,13 +22,12 @@
 ![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif) 
 ## 3D human mesh
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif" width="400" alt="Demo of the feature">
--->
-
 ## 3D human mesh
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif" width="300" alt="3D human mesh">
   <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif" width="300" alt="Another GIF">
 </div>
+-->
 
 ## 3D human mesh
 <table>
