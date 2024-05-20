@@ -14,10 +14,9 @@
 
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif" width="800" alt="Demo of the feature">
 
-## 2D to 3D skeleton lifting
-
-<img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif" width="400" alt="Demo of the feature">
 <!--
+## 2D to 3D skeleton lifting
+<img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif" width="400" alt="Demo of the feature">
 ## 3D human mesh
 ![Demo of the feature](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif) 
 ## 3D human mesh
@@ -29,7 +28,7 @@
 </div>
 -->
 
-## 3D human mesh
+## 2D to 3D skeleton lifting and 3D human mesh
 <table>
   <tr>
     <td><img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif" width="300" alt="3D human mesh"></td>
