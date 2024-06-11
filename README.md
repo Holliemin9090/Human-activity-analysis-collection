@@ -8,11 +8,9 @@ This project demonstrates realtime target tracking and skeleton extraction using
 
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.gif" width="400" alt="Demo of the feature">
 
+### Full Video Demonstration
 
-## Overview
-
-- **YOLOv8**: A state-of-the-art object detection model that provides realtime target tracking.
-- **Tacotron2 by SpeechBrain**: An AI model for generating human-like speech instructions.
+https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077988/561c87ef-c31a-4c48-bbf5-aa8e53fa2835
 
 ## Models Used
 
@@ -34,10 +32,6 @@ AI generated voice instruction via Tacotron2 by SpeechBrain
 YOLOv8: https://github.com/ultralytics/ultralytics
 
 SpeechBrain: https://github.com/speechbrain/speechbrain
-### Full Video Demonstration
-
-https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077988/561c87ef-c31a-4c48-bbf5-aa8e53fa2835
-
 
 ## Action recognition
 
