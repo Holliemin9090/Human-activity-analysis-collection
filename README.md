@@ -19,7 +19,7 @@ Here is an example of an embedded video:
   Your browser does not support the video tag.
 </video>
 
-![](skeleton_extraction_tracking.mp4)
+![](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.mp4)
 
 ## Action recognition
 
