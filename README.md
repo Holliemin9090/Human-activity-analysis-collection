@@ -10,6 +10,15 @@
   Your browser does not support the video tag.
 </video>
 
+## My Video
+
+Here is an example of an embedded video:
+
+<video width="640" height="480" controls>
+  <source src="./skeleton_extraction_tracking.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Action recognition
 
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif" width="800" alt="Demo of the feature">
@@ -27,6 +36,7 @@
   <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif" width="300" alt="Another GIF">
 </div>
 -->
+
 
 ## 2D to 3D skeleton lifting and 3D human mesh
 <table>
