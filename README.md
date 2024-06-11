@@ -13,7 +13,7 @@ https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077
 
 ### YOLOv8
 
-YOLOv8 (You Only Look Once, Version 8) is the latest version of the YOLO object detection model. It is designed for high-speed, high-accuracy object detection.
+YOLOv8 (You Only Look Once, Version 8) is the latest version of the YOLO object detection model. It is used in this project to perform realtime pose estimation and target tracking.
 
 - **Repository**: [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 
@@ -22,13 +22,6 @@ YOLOv8 (You Only Look Once, Version 8) is the latest version of the YOLO object 
 Tacotron2 is an advanced text-to-speech model that generates natural and human-like speech. It is used in this project to provide AI-generated voice instructions.
 
 - **Repository**: [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
-
-
-AI generated voice instruction via Tacotron2 by SpeechBrain
-
-YOLOv8: https://github.com/ultralytics/ultralytics
-
-SpeechBrain: https://github.com/speechbrain/speechbrain
 
 ## Action recognition
 
