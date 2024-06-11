@@ -66,4 +66,4 @@ An open-source toolbox for video understanding based on PyTorch.
 
 - **Repository**: [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 
-- **Websitehttps**: [SMPLify](https://smplify.is.tue.mpg.de)
+- **Website**: [SMPLify](https://smplify.is.tue.mpg.de)
