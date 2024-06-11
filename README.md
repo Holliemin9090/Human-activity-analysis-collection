@@ -1,8 +1,5 @@
-# I. Human-activity-analysis-collection
 
-## Skeleton extraction and tracking
-
-# Realtime Skeleton Extraction and Target Tracking using YOLOv8
+# I. Realtime Skeleton Extraction and Target Tracking using YOLOv8
 
 This project demonstrates realtime target tracking and skeleton extraction using YOLOv8, with AI-generated voice instructions via Tacotron2 by SpeechBrain.
 
