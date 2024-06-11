@@ -19,6 +19,8 @@ Here is an example of an embedded video:
   Your browser does not support the video tag.
 </video>
 
+![](skeleton_extraction_tracking.mp4)
+
 ## Action recognition
 
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif" width="800" alt="Demo of the feature">
