@@ -63,3 +63,5 @@ An open-source toolbox for video understanding based on PyTorch.
 ## Model used
 
 - **Repository**: [Walter0807/MotionBERT](https://github.com/Walter0807/MotionBERT)
+
+- **Websitehttps**: [SMPLify](https://smplify.is.tue.mpg.de)
