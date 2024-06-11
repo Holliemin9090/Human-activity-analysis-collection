@@ -59,3 +59,7 @@ An open-source toolbox for video understanding based on PyTorch.
     <td><img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/human_mesh.gif" width="300" alt="Another GIF"></td>
   </tr>
 </table>
+
+## Model used
+
+- **Repository**: [Walter0807/MotionBERT](https://github.com/Walter0807/MotionBERT)
