@@ -9,7 +9,7 @@ AI generated voice instruction via Tacotron2 by SpeechBrain
 
 YOLOv8: https://github.com/ultralytics/ultralytics
 
-SpeechBrain: https://github.com/speechbrain/speechbrain?tab=readme-ov-file
+SpeechBrain: https://github.com/speechbrain/speechbrain
 ### Full Video Demonstration
 
 https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077988/561c87ef-c31a-4c48-bbf5-aa8e53fa2835
