@@ -1,4 +1,4 @@
-# Human-activity-analysis-collection
+# I. Human-activity-analysis-collection
 
 ## Skeleton extraction and tracking
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.gif" width="400" alt="Demo of the feature">
