@@ -64,6 +64,6 @@ An open-source toolbox for video understanding based on PyTorch.
 
 - **Repository**: [Walter0807/MotionBERT](https://github.com/Walter0807/MotionBERT)
 
-- **Repository**: [MVIG-SJTU/AlphaPose] (https://github.com/MVIG-SJTU/AlphaPose)
+- **Repository**: [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
 
 - **Websitehttps**: [SMPLify](https://smplify.is.tue.mpg.de)
