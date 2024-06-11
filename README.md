@@ -52,7 +52,7 @@ An open-source toolbox for video understanding based on PyTorch.
 -->
 
 
-## 2D to 3D skeleton lifting and 3D human mesh
+## III. 2D to 3D skeleton lifting and 3D human mesh
 <table>
   <tr>
     <td><img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/3d_skeleton.gif" width="300" alt="3D human mesh"></td>
