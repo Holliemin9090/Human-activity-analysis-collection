@@ -25,7 +25,17 @@ Tacotron2 is an advanced text-to-speech model that generates natural and human-l
 
 # II. Skeleton-based Action recognition
 
+Skeleton-based action recoginition using MMAction2 by OpenMMLab
+
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif" width="800" alt="Demo of the feature">
+
+## Model Used
+
+### MMaction2
+
+An open-source toolbox for video understanding based on PyTorch.
+
+- **Repository**: [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)
 
 <!--
 ## 2D to 3D skeleton lifting
