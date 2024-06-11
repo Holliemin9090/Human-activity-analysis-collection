@@ -23,7 +23,7 @@ Tacotron2 is an advanced text-to-speech model that generates natural and human-l
 
 - **Repository**: [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
 
-## Action recognition
+# II. Skeleton-based Action recognition
 
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/action_recognition_output.gif" width="800" alt="Demo of the feature">
 
