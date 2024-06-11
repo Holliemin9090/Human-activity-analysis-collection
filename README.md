@@ -15,7 +15,7 @@
 Here is an example of an embedded video:
 
 <video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/username/repo/main/skeleton_extraction_tracking.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Holliemin9090/Human-activity-analysis-collection/main/skeleton_extraction_tracking.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
