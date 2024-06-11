@@ -5,6 +5,16 @@
 
 Realtime target tracking and skeleton extraction using YOLOv8 
 
+# Realtime Target Tracking and Skeleton Extraction using YOLOv8
+
+This project demonstrates realtime target tracking and skeleton extraction using YOLOv8, with AI-generated voice instructions via Tacotron2 by SpeechBrain.
+
+## Overview
+
+- **YOLOv8**: A state-of-the-art object detection model that provides realtime target tracking.
+- **Tacotron2 by SpeechBrain**: An AI model for generating human-like speech instructions.
+
+
 AI generated voice instruction via Tacotron2 by SpeechBrain
 
 YOLOv8: https://github.com/ultralytics/ultralytics
