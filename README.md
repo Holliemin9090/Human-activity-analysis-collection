@@ -3,27 +3,10 @@
 ## Skeleton extraction and tracking
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.gif" width="400" alt="Demo of the feature">
 
-## Video Demonstration
-
+### Full Video Demonstration
 
 https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077988/561c87ef-c31a-4c48-bbf5-aa8e53fa2835
 
-
-<video width="600" controls>
-  <source src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-# My Video
-
-Here is an example of an embedded video:
-
-<video width="640" height="480" controls>
-  <source src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-![](https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.mp4)
 
 ## Action recognition
 
