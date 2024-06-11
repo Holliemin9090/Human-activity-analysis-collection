@@ -10,12 +10,12 @@
   Your browser does not support the video tag.
 </video>
 
-## My Video
+# My Video
 
 Here is an example of an embedded video:
 
 <video width="640" height="480" controls>
-  <source src="skeleton_extraction_tracking.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/username/repo/main/skeleton_extraction_tracking.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
