@@ -3,6 +3,9 @@
 ## Skeleton extraction and tracking
 <img src="https://github.com/Holliemin9090/Human-activity-analysis-collection/blob/main/skeleton_extraction_tracking.gif" width="400" alt="Demo of the feature">
 
+Realtime target tracking and skeleton extraction using YOLOv8 
+
+YOLOv8: https://github.com/ultralytics/ultralytics
 ### Full Video Demonstration
 
 https://github.com/Holliemin9090/Human-activity-analysis-collection/assets/28077988/561c87ef-c31a-4c48-bbf5-aa8e53fa2835
