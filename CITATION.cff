@@ -1,7 +1,9 @@
-@misc{motionbert,
-  author       = {Hang Min},
-  title        = {Human-activity-analysis-collection},
-  year         = {2024},
-  url          = {https://github.com/Holliemin9090/Human-activity-analysis-collection},
-  note         = {GitHub repo}
-}
+cff-version: 1.1.0
+message: "Please cite it as below."
+authors:
+- family-names: Min
+  given-names: Hang
+orcid: https://orcid.org/0000-0002-9323-7167
+title: Human activity analysis collection
+version: v1.0.0
+date-released: 2024-07-09
