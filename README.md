@@ -62,6 +62,11 @@ An open-source toolbox for video understanding based on PyTorch.
 
 ## Model used
 
+### MotionBERT
+
+MotionBERT is a comprehensive framework designed to address various tasks in human motion analysis through a unified approach. 
+It incorporates algorithms for skeleton extraction (based on AlphaPose, linked below), 2D-to-3D skeleton lifting, human mesh generation (based on SMPLify, linked below), and action recognition, leveraging large-scale and heterogeneous data sources. 
+
 - **Repository**: [Walter0807/MotionBERT](https://github.com/Walter0807/MotionBERT)
 
 - **Repository**: [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
